@@ -1,0 +1,3 @@
+Hari Amoor's personal resume.
+
+Credits to [[https://github.com/posquit0/Awesome-CV][Byungjin Park's Awesome-CV resume template]] (even though I removed a lot of it).
